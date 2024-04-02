@@ -1,0 +1,7 @@
+Structure of the code looks good.
+I would have put the text of the challange in a doc folder.
+
+The implementation looks very simple and it is very clean. However, the overall implementation strategy is more of a C code rather then a CPP code. Classes are missing, and there aren't real exploitation of CPP, a part from the functionals.
+
+Also, I would have liked however to be able to change some parameters at run time, hence employing json, muparser or getpot.
+
